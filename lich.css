@@ -1,0 +1,40 @@
+table{
+    width: 50%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+h3{
+    color: blue;
+}
+#sun{
+    background-color: red;
+    color: white;
+}
+#sat{
+    background-color: blue;
+    color: white;
+}
+th{
+    background-color: orange;
+    color: white;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.lunar{
+    font-size: 10px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.none{
+    border: none;
+}
+.lunar{
+    color: black;
+}

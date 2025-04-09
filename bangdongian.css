@@ -1,0 +1,22 @@
+.bodernone, caption{
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    color: blue;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto;
+}
